@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Orviwan",
+    "longName": "Button Lock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/lock.png",
+                "name": "IMAGE_LOCK",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Button Lock",
+    "uuid": "65925bb7-91c9-40c2-a555-379da93623dc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
