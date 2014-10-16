@@ -18,7 +18,7 @@
     "shortName": "Button Lock",
     "uuid": "65925bb7-91c9-40c2-a555-379da93623dc",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": false
     }
